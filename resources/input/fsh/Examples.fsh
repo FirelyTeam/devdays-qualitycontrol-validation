@@ -1,5 +1,5 @@
 Instance: AmyShaw-patient-VALID
-InstanceOf: ACMEbasePatient
+InstanceOf: ACMEGithubProjectPatient
 Usage: #example
 * extension.url = "http://hl7.org/fhir/us/core/StructureDefinition/us-core-birthsex"
 * extension.valueCode = #F
