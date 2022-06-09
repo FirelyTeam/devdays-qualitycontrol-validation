@@ -3,7 +3,7 @@
   "id": "AmyShaw-patient-VALID",
   "meta": {
     "profile": [
-      "https://fake-acme.org/fhir/StructureDefinition/ACME-base-patient"
+      "http://fake-acme.org/fhir/StructureDefinition/ACMEGithubProjectPatient"
     ]
   },
   "identifier": [
