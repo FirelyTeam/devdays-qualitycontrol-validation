@@ -1,1 +1,2 @@
-canonical-claims: 
+canonical-claims:
+  - http://fake-acme.org/fhir/ 
