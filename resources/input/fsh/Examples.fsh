@@ -24,5 +24,3 @@ Usage: #example
 * address.state = "OK"
 * address.postalCode = "74047"
 * address.country = "US"
-* communication
-  * language = $BCP47#nl-NL
