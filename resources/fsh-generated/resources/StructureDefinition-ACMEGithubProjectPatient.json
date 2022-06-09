@@ -2,7 +2,7 @@
   "resourceType": "StructureDefinition",
   "id": "ACMEGithubProjectPatient",
   "url": "http://fake-acme.org/fhir/StructureDefinition/ACMEGithubProjectPatient",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "ACMEGithubProjectPatient",
   "status": "draft",
   "fhirVersion": "4.0.1",

@@ -4,7 +4,7 @@
   "name": "DutchOnlyVS",
   "id": "DutchOnlyVS",
   "description": "BCP47 code for Netherlands only",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "http://fake-acme.org/fhir/ValueSet/DutchOnlyVS",
   "compose": {
     "include": [
